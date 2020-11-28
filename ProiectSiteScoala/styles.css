@@ -1,0 +1,28 @@
+body {
+	font-family: 'Lexend Giga', sans-serif;
+}
+header {
+	margin: auto;
+}
+.logo-container {
+	margin-left: 50px;
+
+}
+.signup-link {
+	text-decoration: none;
+	font-size: 30px;
+}
+
+}
+.signup-form {
+	list-style: none;
+}
+.signup-form li {
+	display: block;
+	list-style: none;
+	margin-bottom: 10px;
+}
+.text {
+	margin-left: 50px;
+}
+
